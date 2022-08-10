@@ -1,4 +1,4 @@
-# Azure-Machine-Learning-Visual-Tools-
+# Azure-Machine-Learning-Visual-Tools
 
 
 Cheat sheets and sample from Microsoft site:
