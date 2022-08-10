@@ -1,7 +1,7 @@
 # Azure-Machine-Learning-Visual-Tools
 
 
-Cheat sheets and samples from Microsoft site:
+Cheat sheet and samples from Microsoft site:
 
 https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet#download-machine-learning-algorithm-cheat-sheet\
 
